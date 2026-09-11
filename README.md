@@ -34,12 +34,31 @@ Alongside application development, I am building a practical DevOps foundation t
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=fastapi&logoColor=white)
 
-### DevOps and platforms
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![CherryPy](https://img.shields.io/badge/CherryPy-5A5A5A?style=flat-square&logo=python&logoColor=white)
+![Jinja2](https://img.shields.io/badge/Jinja2-B41717?style=flat-square&logo=jinja&logoColor=white)
+![React Navigation](https://img.shields.io/badge/React_Navigation-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=fastapi&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
+![Backend development](https://img.shields.io/badge/Backend_Development-2F855A?style=flat-square&logo=serverfault&logoColor=white)
+![API integration](https://img.shields.io/badge/API_Integration-6B46C1?style=flat-square&logo=swagger&logoColor=white)
+
+### Platforms and DevOps
+
+![Salesforce B2C Commerce](https://img.shields.io/badge/Salesforce_B2C_Commerce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![SFRA](https://img.shields.io/badge/SFRA-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![ISML](https://img.shields.io/badge/ISML-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![OCAPI](https://img.shields.io/badge/OCAPI-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![SCAPI](https://img.shields.io/badge/SCAPI-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Business Manager](https://img.shields.io/badge/Business_Manager-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -47,4 +66,12 @@ Alongside application development, I am building a practical DevOps foundation t
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-1F6FEB?style=flat-square&logo=cisco&logoColor=white)
+![Scripting](https://img.shields.io/badge/Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Home lab administration](https://img.shields.io/badge/Home_Lab_Administration-333333?style=flat-square&logo=linux&logoColor=white)
+
+### Delivery and communication
+
+`Agile software development` `Web application development` `Mobile application development`
+
+`Portuguese — Native` `English — Professional`
