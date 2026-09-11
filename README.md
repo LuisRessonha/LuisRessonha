@@ -4,10 +4,10 @@
 
 ### Software Engineer · Full-stack Developer · DevOps Junior
 
-I build reliable web and mobile solutions, and I am turning that application experience into stronger infrastructure, automation, and delivery practices.
+I build reliable web and mobile solutions while learning how to design, automate, and operate the systems behind them.
 
 <p>
-  <a href="https://luisressonha.github.io/"><strong>github.io</strong></a> ·
+  <a href="https://luisressonha.github.io/"><strong>Portfolio</strong></a> ·
   <a href="https://github.com/luis-ressonha"><strong>Repositories</strong></a> ·
   <a href="https://www.linkedin.com/in/luisressonha/"><strong>LinkedIn</strong></a>
 </p>
@@ -18,13 +18,13 @@ I build reliable web and mobile solutions, and I am turning that application exp
 
 ## 👋 About me
 
-I am a Software Engineer based in Portugal with professional experience across retail, mobile, university, and community-facing products. At Capgemini, I build and maintain production Salesforce B2C Commerce features and React Native application features as part of Agile delivery teams.
+I am a Software Engineer based in Portugal with professional experience across retail, mobile, university projects, and community-facing products. I currently build and maintain production Salesforce B2C Commerce features and React Native application features as part of Agile delivery teams.
 
-Alongside application development, I am building a practical DevOps foundation through Linux administration, Docker, Azure, Bash scripting, networking, and a NAS-based home lab.
+Outside my professional work, I am learning DevOps through hands-on projects. For fun, I am building a small homelab with Home Assistant and a private media server.
 
-- 🔭 Currently focusing on **DevOps, automation, containers, and reliable delivery**
 - 🧰 Working professionally with **Salesforce B2C Commerce, React Native, TypeScript, GitHub, and Azure**
-- 🏠 Learning by building and maintaining a **Docker-based home lab**
+- 🔭 Learning **DevOps, automation, containers, and infrastructure fundamentals**
+- 🏠 Personal homelab: **Home Assistant and a private media server**
 - 🌍 Based in **Portugal** and eligible to work in the **European Union**
 
 ## 🛠️ Toolbox
@@ -57,7 +57,6 @@ Alongside application development, I am building a practical DevOps foundation t
 ![SFRA](https://img.shields.io/badge/SFRA-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 ![ISML](https://img.shields.io/badge/ISML-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 ![OCAPI](https://img.shields.io/badge/OCAPI-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
-![SCAPI](https://img.shields.io/badge/SCAPI-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 ![Business Manager](https://img.shields.io/badge/Business_Manager-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -66,7 +65,6 @@ Alongside application development, I am building a practical DevOps foundation t
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-1F6FEB?style=flat-square&logo=cisco&logoColor=white)
 ![Scripting](https://img.shields.io/badge/Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Home lab administration](https://img.shields.io/badge/Home_Lab_Administration-333333?style=flat-square&logo=linux&logoColor=white)
 
